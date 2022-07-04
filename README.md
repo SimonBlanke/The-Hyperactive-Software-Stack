@@ -42,16 +42,4 @@ The hyperactive software stack builds upon some shared data-structures to reliab
 - [Simple Data Collector](https://github.com/SimonBlanke/simple-data-collector)
   - Thread safe and atomic data collection into csv-files.
 
-- [Meta-Optimize](https://github.com/SimonBlanke/Meta-Optimize)
-  - Automatically adapt parameters of optimization algorithms to the problem.
-
-- [Meta-Learn](https://github.com/SimonBlanke/Meta-Learn)
-  - Meta-Learning to support AutoML
-
-
-   
-
-   
-
-
 
