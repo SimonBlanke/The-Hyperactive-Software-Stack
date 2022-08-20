@@ -83,12 +83,6 @@ The hyperactive software stack builds upon some shared data-structures to reliab
 - [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
   - The optimization-backend for Hyperactive.
 
-- [Experimental-Optimization-Strategies](https://github.com/SimonBlanke/Experimental-Optimization-Strategies)
-  - An extension with experimental optimization algorithms.
-
-- [optimization-tutorial](https://github.com/SimonBlanke/optimization-tutorial)
-  - Interactive documentation for the optimization algorithms.
-
 - [Surfaces](https://github.com/SimonBlanke/Surfaces)
   - A collection of test-objective-functions.
 
