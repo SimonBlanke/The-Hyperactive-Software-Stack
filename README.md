@@ -89,9 +89,6 @@ The hyperactive software stack builds upon some shared data-structures to reliab
 - [Tabular Data Explorer](https://github.com/SimonBlanke/tabular-data-explorer)
   - Dashboard to visually analyse saved search-data.
 
-- [Progress Board](https://github.com/SimonBlanke/ProgressBoard)
-  - Visualize the progress of optimization runs in a dashboard.
-
 - [Simple Data Collector](https://github.com/SimonBlanke/simple-data-collector)
   - Thread safe and atomic data collection into csv-files.
 
