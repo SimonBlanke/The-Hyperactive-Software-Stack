@@ -86,7 +86,7 @@ The hyperactive software stack builds upon some shared data-structures to reliab
 - [Surfaces](https://github.com/SimonBlanke/Surfaces)
   - A collection of test-objective-functions.
 
-- [Tabular Data Explorer](https://github.com/SimonBlanke/tabular-data-explorer)
+- [Search Data Explorer](https://github.com/SimonBlanke/search-data-explorer)
   - Dashboard to visually analyse saved search-data.
 
 - [Simple Data Collector](https://github.com/SimonBlanke/simple-data-collector)
