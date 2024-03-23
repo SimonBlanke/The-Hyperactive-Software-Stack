@@ -25,12 +25,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
-          name: SimonBlanke/Surfaces
+          repository: SimonBlanke/Surfaces
           path: surfaces
 
       - uses: actions/checkout@v3
         with:
-          name: SimonBlanke/Hyperactive
+          repository: SimonBlanke/Hyperactive
           path: hyperactive
 
       # Runs a single command using the runners shell
