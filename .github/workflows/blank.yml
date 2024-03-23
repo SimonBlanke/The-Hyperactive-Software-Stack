@@ -22,16 +22,17 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-        with:
-          repository: SimonBlanke/Surfaces
-          path: surfaces
-
       - uses: actions/checkout@v3
         with:
           repository: SimonBlanke/Hyperactive
-          path: hyperactive
+
+      - uses: actions/checkout@v3
+        with:
+          repository: SimonBlanke/Gradient-Free-Optimizers
+
+      - uses: actions/checkout@v3
+        with:
+          repository: SimonBlanke/Surfaces
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
